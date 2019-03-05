@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA96-1C0E
+
+ Directory of C:\Users\KALYAN\Desktop\my project
+
+03/05/2019  01:57 PM    <DIR>          .
+03/05/2019  01:57 PM    <DIR>          ..
+03/05/2019  01:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  159,775,383,552 bytes free
